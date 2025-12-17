@@ -1,5 +1,7 @@
 # Absolute Basics
+
 ## Python Core Language: Basics
+
     - Python Fundamentals
     - I/O Operations and String Formatting
     - Python Control Flow and Loops
@@ -7,6 +9,7 @@
     - Python Data Structures
 
 ## Python Core Language: Intermediate
+
     - Perfect Your Python Development Setup
     - Modules and Packages
     - Object-Oriented Programming (OOP)
@@ -20,6 +23,7 @@
     - Testing and Continuous Integration
 
 ## Python Core Language: Advanced
+
     - Concurrency and Async Programming
     - Database Access With Python
     - Python Metaprogramming
